@@ -4,7 +4,7 @@ A simple app that gives you a suggestion on what to wear (sometimes do) based on
 
 Coolet is a very simple app with elegant UI made to give you a suggestion on what kind of cloth to wear and sometimes offers activity that you might want to do. 
 
-Although, the app is open source, you're going to need to integrate your own API (I used openweather API) and you might as well need to signup for an account...its free 😅 and also I've no realtion with them, so this is no affilate or ad. Once you signup and get your API key make sure to insert it in the apiKey located at 'lib/services/weather.dart'.
+Although, the app is open source, you're going to need to integrate your own API (I used openweather API) and you might as well need to signup for an account...its free 😅 and also I've no relation with them, so this is no affilate or ad. Once you signup and get your API key make sure to insert it in the apiKey located at 'lib/services/weather.dart'.
 
 To check on the app it self...I'll be uploading a download link soon 😁, I kind of forgot to do that (I don't really know how 😅) but until then you can check on the screenshots and clone the app itself if you like to.
 
